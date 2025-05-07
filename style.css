@@ -14,6 +14,18 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
 }
+.back-btn {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.back-btn:hover {
+    text-decoration: underline;
+}
+
 
 .header {
     text-align: center;
